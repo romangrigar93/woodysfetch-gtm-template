@@ -1,4 +1,12 @@
-﻿___INFO___
+﻿___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
+___INFO___
 
 {
   "type": "TAG",
@@ -798,11 +806,8 @@ scenarios:
     assertThat(queuedData[0].payload.event_type).isEqualTo('purchase');
 
 
-___TERMS_OF_SERVICE___
-
-By creating or modifying this file you agree to Google Tag Manager's Community Template Gallery Developer Terms of Service available at https://developers.google.com/tag-platform/tag-manager/templates/gallery-tos (or such other URL as Google may provide), as modified from time to time.
-
-
 ___NOTES___
 
 Created on 29. 3. 2026 11:50:12
+
+
