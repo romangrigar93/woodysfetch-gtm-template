@@ -1,5 +1,5 @@
 homepage: "https://woodysfetch.com"
 documentation: "https://woodysfetch.com/docs/gtm-template"
 versions:
-  - sha: 5ba2ff3b5d2be88eb68e17e1b3ae76acc72af411
+  - sha: 817f6589b4925e22396bd09f92054063e3b8082b
     changeNotes: "Initial release — purchase + add_to_cart tracking with GA4 dataLayer support, custom variable overrides, widget click capture, and Consent Mode v2."
